@@ -1,0 +1,1 @@
+sketch Alice: type = CM, sample rate = 0.1, Pr(err > 100) < 0.01, Pr(err > 200) < 0.005, Pr(err > 300) < 0.001

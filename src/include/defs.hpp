@@ -20,7 +20,7 @@ static const double EPOCH = 1000;
 static const int64_t MAX_MEMORY=20'000'000;
 extern count_t TINY_THRESHOLD;
 extern double BIG_PERCENT;
-int TINY_SIM_NUM = 2000;
+static const int TINY_SIM_NUM = 2000;
 static const double STOP_THRESHOLD=1e-4;
 static const double _K_=2654;
 static const double PHI=2.57583; // delta = 1%
